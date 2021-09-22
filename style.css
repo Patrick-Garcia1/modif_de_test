@@ -391,6 +391,24 @@ a:hover {
     margin: 0 auto;
     padding-top: 10px;
 }
+/* icones réseaux sociaux */
+figure{
+    padding-bottom: 40px;
+}
+figure .social .fa{
+  color:  rgb(80, 48, 48);
+}
+figure .social .fa:hover{
+    color: rgb(30, 30, 30)!important;
+}
+/* footer navigation */
+footer nav{
+    color:rgb(80, 48, 48);
+}
+/* footer navigation lien */
+footer nav a{
+    color:rgb(55, 55, 55)!important;
+}
 /* fin de correction */
 
 @media (min-width: 768px) {
@@ -708,7 +726,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 18px;
 }
 
 .tight-width-whitespace {
@@ -723,10 +741,10 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    /* color: #FFFFFF!important; */
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
-    font-size: 16px;
+    font-size: 19px;
     font-weight: 700;
 }
 
@@ -767,7 +785,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: rgb(80, 48, 48) !important;
 }
 
 .portfolio-thumb {
@@ -806,17 +824,17 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #F3976C!important;
+    color: rgb(80, 48, 48)!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: rgb(30, 30, 30)!important;
 }
 
 .ltc-white {
