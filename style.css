@@ -378,7 +378,7 @@ a:hover {
     font-size: 20px;
     font-weight: 300;
     margin: 0 auto;
-    padding: 0 auto;
+    padding: 0;
 }
 /* auteur de la citation*/
 .remplacement_auteur{
